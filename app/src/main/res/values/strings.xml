@@ -25,4 +25,7 @@
     <string name="today">오늘</string>
     <string name="yester">어제</string>
 
+
+    <string name="coordination">오늘의 추천 옷차림</string>
+    <string name="todaycalendar">오늘의 일정</string>
 </resources>
