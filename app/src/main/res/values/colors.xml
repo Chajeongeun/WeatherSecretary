@@ -10,4 +10,5 @@
     <color name="main">#029CDA</color>
     <color name="sub">#42515A</color>
     <color name="red">#FF0000</color>
+    <color name="gray">#f1f3f5</color>
 </resources>
