@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">weatherSecretary</string>
+    <string name="title_home">홈</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_weather">날씨</string>
+    <string name="title_timetable">시간표</string>
+    <string name="title_calendar">일정</string>
+</resources>
